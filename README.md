@@ -3,6 +3,9 @@
 ## Overview
 The Diabetes Prediction App is a machine learning-based web application designed to predict the likelihood of diabetes in individuals based on various health metrics. The app provides insights into users' health status using predictive analytics.
 
+![db1](https://github.com/user-attachments/assets/462fb8fc-3a1b-4468-91c0-536b8f3c31f8)
+
+
 ## Features
 - User-friendly interface for inputting health metrics.
 - Real-time diabetes risk prediction.
