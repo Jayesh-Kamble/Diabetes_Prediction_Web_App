@@ -1,7 +1,7 @@
 # Diabetes Prediction App
 
 ## Overview
-The Diabetes Prediction App is a machine learning-based web application designed to predict the likelihood of diabetes in individuals based on various health metrics. The app provides insights into users' health status using predictive analytics.
+The Diabetes Prediction App is a machine learning-based web application designed to predict the likelihood of diabetes in individuals based on various health metrics. The app provides insights into user's health status using predictive analytics.
 
 ![db1](https://github.com/user-attachments/assets/462fb8fc-3a1b-4468-91c0-536b8f3c31f8)
 
@@ -19,11 +19,11 @@ After filling details of Diabetic person it predict the result
 
 ## Technologies Used
 - **Machine Learning:** Python (scikit-learn, pandas, numpy)
-- **Web Development:** Streamlit
+- **Web Development:**  Streamlit
 - **Development Environment:** Google Colab, Anaconda
 
 ## Installation
-To run this app locally, follow these steps:
+To run this app locally, follow these below steps:
 
 1. Clone the repository:
    ```bash
